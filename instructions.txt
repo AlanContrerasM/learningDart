@@ -1,0 +1,6 @@
+flutter create appname
+ctrl shift p -> flutter: Select Device
+
+run-> run without debugging
+
+ctrl shift p -> you can open devtools widget inspector page
